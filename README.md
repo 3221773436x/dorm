@@ -1,5 +1,8 @@
 # 项目名称：基于Spring Boot的高校宿舍管理系统
+
 # 项目描述：后端采用Spring Boot框架，前端采用Vue框架，数据库使用MySQL
+    ![image](https://github.com/user-attachments/assets/4e87d3ef-e7b6-42de-9545-65e28bbf1439)
+
 # 运行环境
     前端：node18
     后端：jdk1.8
