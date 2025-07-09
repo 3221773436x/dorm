@@ -1,7 +1,7 @@
 # 项目名称：基于Spring Boot的高校宿舍管理系统
 
 # 项目描述：后端采用Spring Boot框架，前端采用Vue框架，数据库使用MySQL
-    [[![image](https://github.com/user-attachments/assets/4e87d3ef-e7b6-42de-9545-65e28bbf1439)](https://github.com/3221773436x/images/blob/master/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-04-25%20134831.png)](https://github.com/3221773436x/images/blob/master/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-04-25%20134831.png?raw=true)
+    ![tupian](https://github.com/3221773436x/images/blob/master/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-04-25%20134831.png)
 
 # 运行环境
     前端：node18
