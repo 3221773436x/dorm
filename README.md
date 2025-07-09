@@ -13,5 +13,5 @@
 # 系统功能模块图
 ![tupian](https://github.com/3221773436x/images/blob/master/%E7%B3%BB%E7%BB%9F%E5%8A%9F%E8%83%BD%E6%A8%A1%E5%9D%97%E8%AE%BE%E8%AE%A1.png)
 
-#注：仅供参考学习
+# 注：仅供参考学习
     有问题可联系：lizy4361@gmail.com
